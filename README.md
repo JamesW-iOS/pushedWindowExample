@@ -1,4 +1,4 @@
-# pushedWindowExample
+# `pushWindow` issue example
 Sample app demonstrating an issue with the push window action
 
 
